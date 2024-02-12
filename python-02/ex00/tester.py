@@ -1,3 +1,3 @@
 from load_csv import load
 
-print(load("test.pdf"))
+print(load("life_expectancy_years.csv"))
